@@ -11,7 +11,7 @@ class StudentData{
         System.out.println("Branch: " + branch);
     }
     public static void main(String[] args){
-        Student student = new Student();
+        StudentData student = new StudentData();
 
         student.roll = 1;
         student.name = "Pritanshu Samanta";
