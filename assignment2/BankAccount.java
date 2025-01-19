@@ -15,7 +15,7 @@ class BankAccount{
         System.out.println("Amount deposited: " + amount);
         System.out.println("Current balance: " + balance);
     }
-    void withdraw(double amount){
+    void withdraw(double amount){  
         if(balance<amount){
             System.out.println("Insufficient balance");
         }

@@ -13,6 +13,7 @@ public class oddEven{
         else{
             System.out.println(n + " is an odd number.");
         }
+        sc.close();
     }
 }
 

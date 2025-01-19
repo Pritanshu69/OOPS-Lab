@@ -1,7 +1,7 @@
 //Here’s a simple Java program demonstrating the use of anonymous inner classes, both with a superclass and an interface:
 
 // Demonstration of Anonymous Inner Classes using Superclass and Interface
-public class AnonymousInnerClassDemo {
+public class AnonymousInnerClass {
 
     // Superclass
     static class Animal {
