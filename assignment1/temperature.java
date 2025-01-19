@@ -9,7 +9,7 @@ public class temperature{
 
         double Celsius = (farenheit - 32) * 5/9;
 
-        System.out.printf("The temperature in Celsius is: %.2f%n", Celsius , );
+        System.out.printf("The temperature in Celsius is: %.2f%n", Celsius  );
 
         sc.close();
     }
